@@ -1,0 +1,22 @@
+{
+  "name": "auto-video-maker",
+  "version": "0.0.1",
+  "description": "Máquina inteligente que cria vídeos automaticamente a partir de um tema",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/l3onix/autobots.git"
+  },
+  "author": "Leonardo Facundes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/l3onix/autobots/issues"
+  },
+  "homepage": "https://github.com/l3onix/autobots#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
