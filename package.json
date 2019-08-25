@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/l3onix/autobots/issues"
   },
-  "homepage": "https://github.com/l3onix/autobots#readme"
+  "homepage": "https://github.com/l3onix/autobots#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
