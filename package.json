@@ -18,6 +18,8 @@
   "homepage": "https://github.com/l3onix/autobots#readme",
   "dependencies": {
     "algorithmia": "^0.3.10",
+    "fs": "0.0.1-security",
+    "ibm-watson": "^4.4.0",
     "readline-sync": "^1.4.10",
     "sbd": "^1.0.16"
   }
