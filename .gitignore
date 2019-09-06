@@ -62,3 +62,6 @@ typings/
 
 # credenciais do projeto
 credentials/*.json
+
+# arquivo em que armazenado os dados
+content.json
