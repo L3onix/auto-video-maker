@@ -5,7 +5,7 @@ File: `algorithmia.json`
 
 ```json
 {
-    "apiKey": "hashcode"
+	"apiKey": "simAIKE9D9H6jB7Qq6xX/HsJ7r91"
 }
 ```
 
